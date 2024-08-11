@@ -15,3 +15,6 @@ This repository contains the code and datasets for our research paper, which pre
 * **Evaluation Metrics:** Tools to measure the accuracy and effectiveness of imputation strategies.
 ## Results
 Our approach demonstrates a significant improvement in imputation accuracy, setting a new benchmark for handling missing data in crime records. The Random Forest model, in particular, consistently outperformed other methods, showcasing its robustness in dealing with incomplete datasets.
+
+# Presentation
+* **Youtube video:** https://www.youtube.com/watch?v=L1b7c0FE6fU 
