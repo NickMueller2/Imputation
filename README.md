@@ -5,7 +5,7 @@
 This repository contains the code and datasets for our research paper, which presents a novel approach to improving data imputation accuracy. Using crime records from Chicago, we explore and compare multiple imputation methods, including Gradient Boosting, Random Forest, and Decision Trees, to address missing data challenges, particularly in the context of arrest records.
 
 ## Key Features
-Ensemble Techniques: Utilizes ensemble methods to refine imputation processes and enhance model performance.
+* Ensemble Techniques: Utilizes ensemble methods to refine imputation processes and enhance model performance.
 Advanced Modeling: Implements models such as XGBoost, Random Forest, and LightGBM to handle missing data with greater precision.
 Feature Engineering: Includes advanced feature engineering practices, converting temporal and categorical data for better model integration.
 Comparative Analysis: Provides a detailed analysis of imputation techniques across datasets with varying missing data percentages (10%, 25%, 50%).
