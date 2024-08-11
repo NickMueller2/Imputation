@@ -1,7 +1,7 @@
-#Enhancing Imputation Accuracy: A Multi-Faceted Approach for Missing Data in Chicago Arrest Records
-Authors: Jae Chung, Nicholas Mueller, Steve Bramhall
+# Enhancing Imputation Accuracy: A Multi-Faceted Approach for Missing Data in Chicago Arrest Records
+**Authors**: Jae Chung, Nicholas Mueller, Steve Bramhall
 
-##Overview
+## Overview
 This repository contains the code and datasets for our research paper, which presents a novel approach to improving data imputation accuracy. Using crime records from Chicago, we explore and compare multiple imputation methods, including Gradient Boosting, Random Forest, and Decision Trees, to address missing data challenges, particularly in the context of arrest records.
 
 ##Key Features
